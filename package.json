@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.11"
+  },
+  "name": "restful_api",
+  "description": "src: https://ithelp.ithome.com.tw/articles/10191355",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiwanfifi/RESTful_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taiwanfifi/RESTful_API/issues"
+  },
+  "homepage": "https://github.com/taiwanfifi/RESTful_API#readme"
+}
